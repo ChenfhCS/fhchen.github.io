@@ -23,9 +23,11 @@ My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Co
 
 <section id="experience">
   <h2>Experience</h2>
+  <ul>
     <li><em>2021 - 2024:</em> Ph.D. at <strong>The University of Aizu</strong>, supervised by Prof. Peng Li.</li>
     <li><em>2019 - 2021:</em> M.S. at <strong>The University of Aizu</strong>, supervised by Prof. Peng Li.</li>
     <li><em>2016 - 2020:</em> B.E. at <strong>China University of Geoscience (Wuhan)</strong>, supervised by Prof. Deze Zeng.</li>
+  </ul>
 </section>
 
 <section id="publications">
@@ -57,10 +59,12 @@ My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Co
 
 <section id="honors">
   <h2>Honors and Awards</h2>
+  <ul>
     <li><em>August 2024:</em> Chinese Government Award for Outstanding Self-financed Students Abroad</li>
     <li><em>December 2023:</em> Best Paper Award from <strong>IEEE BDCloud</strong></li>
     <li><em>November 2023:</em> Best Paper Award from <strong>IEEE CyberSciTech</strong></li>
     <li><em>March 2023:</em> Research Fellowships for Young Scientists from <strong>Japan Society for the Promotion of Science (JSPS)</strong></li>
+    </ul>
 </section>
 
 
