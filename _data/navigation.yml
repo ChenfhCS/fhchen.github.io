@@ -23,11 +23,11 @@ main:
   - title: "Honors and Awards"
     url: "#honors"
 
-  - title: "Blog Posts"
-    url: "year-archive/"
+  # - title: "Blog Posts"
+  #   url: "year-archive/"
 
   - title: "CV"
-    url: "cv/"
+    url: "https://chenfhcs.github.io/fhchen.github.io/CV_CHEN.pdf"
 
-  - title: "Guide"
-    url: "markdown/"
+  # - title: "Guide"
+  #   url: "markdown/"
