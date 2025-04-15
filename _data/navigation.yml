@@ -9,25 +9,22 @@
 
 main:
   - title: "Publications"
-    url: "https://chenfhcs.github.io/fhchen.github.io/#publications"
+    url: "{{ site.baseurl }}/#publications"
 
   - title: "Talks"
-    url: /talks/    
+    url: "{{ site.baseurl }}/talks/"
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: "{{ site.baseurl }}/teaching/"
+
   - title: "Portfolio"
-    url: /portfolio/
-        
+    url: "{{ site.baseurl }}/portfolio/"
+
   - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: "{{ site.baseurl }}/year-archive/"
+
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
+    url: "{{ site.baseurl }}/cv/"
+
   - title: "Guide"
-    url: /markdown/
+    url: "{{ site.baseurl }}/markdown/"
