@@ -14,10 +14,6 @@ My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Co
 
 <section id="publications">
   <h2>Selected Publications</h2>
-  {% if site.author.googlescholar %}
-    <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-  {% endif %}
-
   {% include base_path %}
 
   <!-- New style rendering if publication categories are defined -->
