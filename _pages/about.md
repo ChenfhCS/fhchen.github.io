@@ -12,6 +12,13 @@ redirect_from:
 My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Computer Science and Engineering, The University of Aizu in September 2024, supervised by [Prof. Peng Li](). My research interests include edge computing and distributed machine learning systems.
 
 
+## Publications
+
+<section id="publications">
+  <h2>Publications</h2>
+  <!-- 在这里插入你的 Publications 内容 -->
+</section>
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
