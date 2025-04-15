@@ -1,9 +1,9 @@
 ---
 title: "SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models"
 collection: publications
-category: manuscripts
+category: conferene
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '<strong><u>Fahao Chen</u></strong>, Peng Li, Tom H. Luan, Zhou Su, and Jing Deng'
 date: 2025-05-19
 venue: 'IEEE International Conference on Computer Communications (CCF A)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
