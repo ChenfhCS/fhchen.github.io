@@ -14,35 +14,25 @@ My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Co
 
 <section id="publications">
   <h2>Publications</h2>
-  {% if site.author.googlescholar %}
-    <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-  {% endif %}
-
-  {% include base_path %}
-
-  <!-- New style rendering if publication categories are defined -->
-  {% if site.publication_category %}
-    {% for category in site.publication_category  %}
-      {% assign title_shown = false %}
-      {% for post in site.publications reversed %}
-        {% if post.category != category[0] %}
-          {% continue %}
-        {% endif %}
-        {% unless title_shown %}
-          <h3>{{ category[1].title }}</h3><hr />
-          {% assign title_shown = true %}
-        {% endunless %}
-        {% include archive-single.html %}
-      {% endfor %}
-    {% endfor %}
-  {% else %}
-    {% for post in site.publications reversed %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endif %}
+  {% for post in site.publications reversed %}
+  <div class="publication">
+    <h3><a href="{{ post.paperurl }}">{{ post.title }}</a></h3>
+    <p><strong>{{ post.venue }}</strong>, {{ post.date | date: "%B %Y" }}</p>
+    <p>{{ post.excerpt }}</p>
+    <p>
+      {% if post.slidesurl %}<a href="{{ post.slidesurl }}">Slides</a> |{% endif %}
+      {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a> |{% endif %}
+      {% if post.bibtexurl %}<a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
+    </p>
+  </div>
+  {% endfor %}
 </section>
 
-Getting started
+
+
+
+
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -73,4 +63,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
