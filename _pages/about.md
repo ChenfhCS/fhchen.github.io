@@ -14,7 +14,32 @@ My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Co
 
 <section id="publications">
   <h2>Publications</h2>
-  <!-- 在这里插入你的 Publications 内容 -->
+  {% if site.author.googlescholar %}
+    <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  {% endif %}
+
+  {% include base_path %}
+
+  <!-- New style rendering if publication categories are defined -->
+  {% if site.publication_category %}
+    {% for category in site.publication_category  %}
+      {% assign title_shown = false %}
+      {% for post in site.publications reversed %}
+        {% if post.category != category[0] %}
+          {% continue %}
+        {% endif %}
+        {% unless title_shown %}
+          <h3>{{ category[1].title }}</h3><hr />
+          {% assign title_shown = true %}
+        {% endunless %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endfor %}
+  {% else %}
+    {% for post in site.publications reversed %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 </section>
 
 Getting started
