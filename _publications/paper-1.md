@@ -1,0 +1,14 @@
+---
+title: "SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models"
+collection: publications
+category: conferences
+permalink: /publication/paper-1
+excerpt: '<strong><u>Fahao Chen</u></strong>, Peng Li, Tom H. Luan, Zhou Su, and Jing Deng'
+date: 2025-05-19
+venue: 'IEEE International Conference on Computer Communications (CCF A)'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://arxiv.org/pdf/2503.15921'
+# bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
