@@ -6,7 +6,7 @@ permalink: /publication/paper-5
 excerpt: 'Boqian Fu, Fahao Chen, Peng Li, and Deze Zeng'
 date: 2023-01-13
 venue: 'ACM ICPP (CCF B)'
-paperurl: 'https://chenfhcs.github.io/fhchen.github.io/TCB_ACM_ICPP.pdf'
+paperurl: 'https://chenfhcs.github.io/fhchen.github.io/files/TCB_ACM_ICPP.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

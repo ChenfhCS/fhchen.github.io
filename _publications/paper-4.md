@@ -6,7 +6,7 @@ permalink: /publication/paper-4
 excerpt: '<strong><u>Fahao Chen</u></strong>, Peng Li, Celimuge Wu, and Song Guo'
 date: 2022-06-27
 venue: 'ACM HPDC (CCF B)'
-paperurl: 'https://chenfhcs.github.io/fhchen.github.io/Hare_ACM_HPDC.pdf'
+paperurl: 'https://chenfhcs.github.io/fhchen.github.io/files/Hare_ACM_HPDC.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

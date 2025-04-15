@@ -6,7 +6,7 @@ permalink: /publication/paper-7
 excerpt: '<strong><u>Fahao Chen</u></strong>, Peng Li, Toshiaki Miyazaki, and Celimuge Wu'
 date: 2022-08-01
 venue: 'IEEE TPDC (CCF A)'
-paperurl: 'https://chenfhcs.github.io/fhchen.github.io/FedGraph_IEEE_TPDS.pdf'
+paperurl: 'https://chenfhcs.github.io/fhchen.github.io/files/FedGraph_IEEE_TPDS.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

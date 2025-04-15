@@ -6,7 +6,7 @@ permalink: /publication/paper-6
 excerpt: '<strong><u>Fahao Chen</u></strong>, Peng Li, Celimuge Wu, and Song Guo'
 date: 2024-06-14
 venue: 'IEEE TCC (CCF C)'
-paperurl: 'https://chenfhcs.github.io/fhchen.github.io/Scheduling_IEEE_TCC.pdf'
+paperurl: 'https://chenfhcs.github.io/fhchen.github.io/files/Scheduling_IEEE_TCC.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
