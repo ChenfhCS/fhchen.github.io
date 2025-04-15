@@ -9,7 +9,7 @@ redirect_from:
 
 
 <section id="aboutme">
-My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Computer Science and Engineering, The University of Aizu in September 2024, supervised by [Prof. Peng Li](). My research interests include edge computing and distributed machine learning systems.
+My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Computer Science and Engineering, The University of Aizu in September 2024, supervised by Prof. Peng Li. My research interests include edge computing and distributed machine learning systems.
 </section>
 
 <section id="news">
