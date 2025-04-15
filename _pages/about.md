@@ -8,18 +8,24 @@ redirect_from:
 ---
 
 
-
+<section id="aboutme">
 My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Computer Science and Engineering, The University of Aizu in September 2024, supervised by [Prof. Peng Li](). My research interests include edge computing and distributed machine learning systems.
+</section>
 
 <section id="news">
   <h2>News</h2>
-  
+  <ul>
+    <li><em>December 2024:</em> Two papers are accepted by <strong>IEEE INFOCOM 2025</strong>.</li>
+    <li><em>October 2023:</em> One papers is accepted by <strong>ACM SIGMOD 2024</strong>.</li>
+  </ul>
 </section>
 
 
 <section id="experience">
   <h2>Experience</h2>
-  
+    <li><em>2021 - 2024:</em> Ph.D. at <strong>The University of Aizu</strong>, supervised by Prof. Peng Li.</li>
+    <li><em>2019 - 2021:</em> M.S. at <strong>The University of Aizu</strong>, supervised by Prof. Peng Li.</li>
+    <li><em>2016 - 2020:</em> B.E. at <strong>China University of Geoscience (Wuhan)</strong>, supervised by Prof. Deze Zeng.</li>
 </section>
 
 <section id="publications">
@@ -49,7 +55,13 @@ My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Co
 </section>
 
 
-
+<section id="honors">
+  <h2>Honors and Awards</h2>
+    <li><em>August 2024:</em> Chinese Government Award for Outstanding Self-financed Students Abroad</li>
+    <li><em>December 2023:</em> Best Paper Award from <strong>IEEE BDCloud</strong></li>
+    <li><em>November 2023:</em> Best Paper Award from <strong>IEEE CyberSciTech</strong></li>
+    <li><em>March 2023:</em> Research Fellowships for Young Scientists from <strong>Japan Society for the Promotion of Science (JSPS)</strong></li>
+</section>
 
 
 <!-- Getting started
