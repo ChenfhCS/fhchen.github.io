@@ -1,12 +1,12 @@
 ---
-title: "Hare: Exploiting Inter-job and Intra-job Parallelism of Distributed Machine Learning on Heterogeneous GPUs"
+title: "TCB: Accelerating Transformer Inference Services with Request Concatenation"
 collection: publications
 category: conferences
-permalink: /publication/paper-4
-excerpt: '<strong><u>Fahao Chen</u></strong>, Peng Li, Celimuge Wu, and Song Guo'
-date: 2022-06-27
-venue: 'ACM HPDC (CCF B)'
-paperurl: 'https://chenfhcs.github.io/fhchen.github.io/Hare_ACM_HPDC.pdf'
+permalink: /publication/paper-5
+excerpt: 'Boqian Fu, Fahao Chen, Peng Li, and Deze Zeng'
+date: 2023-01-13
+venue: 'ACM ICPP (CCF B)'
+paperurl: 'https://chenfhcs.github.io/fhchen.github.io/TCB_ACM_ICPP.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
