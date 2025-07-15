@@ -15,7 +15,7 @@ My name is Fahao Chen. I received my Ph.D. degree from the Graduate School of Co
 <section id="news">
   <h2>News</h2>
   <ul>
-    <li><em>June 2025:</em> Two papers are accepted by <strong>IEEE ToN</strong>.</li>
+    <li><em>June 2025:</em> One papers are accepted by <strong>IEEE ToN</strong>.</li>
     <li><em>June 2025:</em> One papers are accepted by <strong>IJCAI 2025</strong>.</li>
     <li><em>December 2024:</em> Two papers are accepted by <strong>IEEE INFOCOM 2025</strong>.</li>
   </ul>
